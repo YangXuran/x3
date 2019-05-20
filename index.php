@@ -1,6 +1,7 @@
 <?php
 
 $time_pre = microtime(true);
+setlocale(LC_ALL,"zh_CN.UTF8");
 
 # Global paths
 class Config {

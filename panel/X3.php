@@ -1,5 +1,5 @@
 <?php
-
+setlocale(LC_ALL,"zh_CN.UTF8");
 // X3 class
 class X3 {
 
